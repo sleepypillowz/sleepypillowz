@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander Acojido</h1>
-<h3 align="center">An aspiring software engineer from Philippines</h3>
+<h3 align="center">An aspiring Software Engineer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 
-- 🌱 I’m currently learning **fundamentals**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://sleepypillowz.github.io/personal-web/](https://sleepypillowz.github.io/personal-web/)
 
