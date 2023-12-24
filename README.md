@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexander Acojido</h1>
-<h3 align="center">An aspiring Software Engineer from Philippines</h3>
+# Alexander Acojido
+`Aspiring Software Engineer`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alexacojido@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/sleepypillowz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sleepypillowz/" height="30" width="40"/></a>
 </p>
