@@ -1,4 +1,4 @@
-# Alexander Acojido
+Alexander Acojido
 `Aspiring Software Engineer`
 
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sleepypillowz.github.io/personal-web/](https://sleepypillowz.github.io/personal-web/)
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -44,6 +44,5 @@
   
 </p>
 
-<> [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sleepypillowz)](https://github.com/anuraghazra/github-readme-stats)
-
-<> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepypillowz&show_icons=true&theme=dracula)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sleepypillowz)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepypillowz&show_icons=true&theme=dracula)
