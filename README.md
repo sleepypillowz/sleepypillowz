@@ -51,9 +51,5 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepypillowz&show_icons=true&locale=en&layout=compact" alt="sleepypillowz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sleepypillowz&show_icons=true&locale=en" alt="sleepypillowz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepypillowz&" alt="sleepypillowz" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepypillowzz&show_icons=true&theme=radical)
 
