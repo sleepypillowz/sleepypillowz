@@ -1,6 +1,8 @@
+<!--
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 
 - 🌱 I’m currently learning **React**
+-->
 
 ### Languages and Tools:
 <p align="left">
