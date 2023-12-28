@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://sleepypillowz.github.io/personal-web/](https://sleepypillowz.github.io/personal-web/)
-
 ### Languages and Tools:
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
