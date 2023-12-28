@@ -1,6 +1,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://sleepypillowz.github.io/personal-web/](https://sleepypillowz.github.io/personal-web/)
 
