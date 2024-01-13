@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about learning resources
 - 📫 How to reach me alexacojido@gmail.com
-- 👨‍💻 All of my projects are available at [alexacojido.netlify.app](https://alexacojido.netlify.app/) 🚧
+- 👨‍💻 All of my projects are available at [alexacojido.netlify.app]<a href="https://alexacojido.netlify.app" target="_blank">example</a>
 
 ### Languages and Tools:
 - MERN Stack
