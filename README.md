@@ -1,8 +1,10 @@
 <!--
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 -->
-
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning **TypeScript**
+- 💬 Ask me about learning resources
+- 📫 How to reach me alexacojido@gmail.com
 - 👨‍💻 All of my projects are available at [alexacojido.netlify.app](https://alexacojido.netlify.app/)
 
 ### Languages and Tools:
