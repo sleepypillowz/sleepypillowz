@@ -1,7 +1,7 @@
 <!--
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 -->
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on devscard
 - 👯 I’m looking to collaborate on game development
 - 🤝 I’m looking for help with tabulation system
 - 🌱 I’m currently learning **TypeScript**
