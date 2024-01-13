@@ -2,7 +2,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 -->
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **TypeScript**
 
 ### Languages and Tools:
 - MERN Stack
