@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Next JS**
 
 ### Languages and Tools:
-- MERN
+- MERN Stack
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sleepypillowz)](https://github.com/anuraghazra/github-readme-stats)
 
