@@ -3,7 +3,7 @@
 -->
 
 - 🌱 I’m currently learning **TypeScript**
-- 👨‍💻 All of my projects are available at alexacojido.netlify.app
+- 👨‍💻 All of my projects are available at [alexacojido.netlify.app](https://alexacojido.netlify.app/)
 
 ### Languages and Tools:
 - MERN Stack
