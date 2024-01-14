@@ -1,10 +1,10 @@
 <!--
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 -->
-- 🔭 I’m currently working on devscard
+- 🔭 I’m currently working on e-commerce
 - 👯 I’m looking to collaborate on game development
 - 🤝 I’m looking for help with tabulation system
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Mantine**
 - 💬 Ask me about learning resources
 - 📫 How to reach me alexacojido@gmail.com
 - 👨‍💻 All of my projects are available at <a href="https://alexacojido.netlify.app" target="_blank">devscard</a>
