@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Docker**
 - 💬 Ask me about **Learning Resources**
 - 📫 How to reach me alexacojido@gmail.com
-- 👨‍💻 All of my projects are available at <a href="https://alexacojido.netlify.app" target="_blank">devscard</a>
+- 👨‍💻 All of my projects are available at <a href="https://sleepypillowz-personal-web.netlify.app/" target="_blank">personal-web</a>
 
 ### Languages and Tools:
 - MERN Stack
