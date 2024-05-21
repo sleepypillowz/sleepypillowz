@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Game Development**
 - 🤝 I’m looking for help with **Drawing Art**
 - 🌱 I’m currently learning **Unity**
-- 💬 Ask me about **Learning Resources**
+- 💬 Ask me about [Learning Resources](https://docs.google.com/spreadsheets/d/1BKxdNJgLsI3ce1Ovw4NWRdcbPLA3xGueklKffA3ycho/edit?usp=sharing)
 - 📫 How to reach me alexacojido@gmail.com
 - 👨‍💻 All of my projects are available at <a href="https://sleepypillowz-personal-web.netlify.app/" target="_blank">personal-web</a>
 
