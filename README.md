@@ -1,10 +1,10 @@
 <!--
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 -->
-- 🔭 I’m currently working on **personal-web**
+- 🔭 I’m currently working on **telehealth**
 - 👯 I’m looking to collaborate on **Game Development**
 - 🤝 I’m looking for help with **Drawing Art**
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **React Native**
 - 💬 Ask me about [Learning Resources](https://docs.google.com/spreadsheets/d/1BKxdNJgLsI3ce1Ovw4NWRdcbPLA3xGueklKffA3ycho/edit?usp=sharing)
 - 📫 How to reach me alexacojido@gmail.com
 - 👨‍💻 All of my projects are available at <a href="https://sleepypillowz-personal-web.netlify.app/" target="_blank">personal-web</a>
