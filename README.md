@@ -1,7 +1,7 @@
 <!--
 <p> <img src="https://komarev.com/ghpvc/?username=sleepypillowz&label=Profile%20views&color=0e75b6&style=flat" alt="sleepypillowz" /> </p>
 -->
-- 🔭 I’m currently working on **telehealth**
+- 🔭 I’m currently working on **Telehealth**
 - 👯 I’m looking to collaborate on **Game Development**
 - 🤝 I’m looking for help with **Drawing Art**
 - 🌱 I’m currently learning **React Native**
